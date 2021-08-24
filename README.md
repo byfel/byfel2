@@ -12,7 +12,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="byfel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="byfel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="byfel-yoda" src="https://media.giphy.com/media/hrdX1BsUBq7DkGJCCd/giphy.gif?cid=ecf05e47lwr5zy6c5ml9kcepytbgg7giwqarotwakbtgrisq&rid=giphy.gif&ct=g">
+  <img align="right" alt="byfel-yoda" src="">
 </div>
   
    ##
@@ -24,5 +24,5 @@
   <a href="https://https://www.linkedin.com/in/felipe-rocha-de-souza-a7355920/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/byfel/byfel2/blob/output/github-contribution-grid-snake.svg)
- ht
+ 
 </div>
